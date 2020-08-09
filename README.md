@@ -9,6 +9,4 @@ Linked lists are categorized in three subcategories:
                         looks like a closed curve).
                         
 In this repository we implement the class for creating a node (element of a linked list) and its methods for manipulating a linked list (insert, remove,  lentgh etc)
-We also implement an algorithm to recognize if the linked list is a closed curve or not.
-
-
+We also implement an algorithm similar to Tortoise and Hare algorithm to recognize if the linked list is a closed curve or not.
