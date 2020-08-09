@@ -1,6 +1,6 @@
 Linked Lists is a special type of a list. Each element of a the list has two attributes:
-- It's value 
-- A 'pointer' referencing the memory location of list's next element.
+- it's value 
+- a 'pointer' referencing to the memory location of the list's next element.
 
 Linked lists are categorized in three subcategories:
 - Singly linked lists  (each element references its subsequent counterpart in the list, last element obviously does not point anywhere)
